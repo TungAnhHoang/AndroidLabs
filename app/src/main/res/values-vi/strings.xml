@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Ung Dung Cua Toi</string>
     <string name="hello_message">Xin Chao The Gioi!</string>
     <string name="ButtonText">Toi la nut bam</string>
+    <string name="login">Dang Nhap</string>
+    <string name="login_name">ten dang nhap</string>
+    <string name="password">Mat Khau</string>
+    <string name="flag">Co</string>
+    <string name="whatDo">Viec nay la lam gi?</string>
+    <string name="photo">Anh chup</string>
+    <string name="radio">Nut Chon</string>
+    <string name="check">Hop Kiem Tra</string>
+
 </resources>
