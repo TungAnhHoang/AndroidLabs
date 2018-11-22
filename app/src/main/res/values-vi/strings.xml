@@ -3,13 +3,25 @@
     <string name="app_name">Ung Dung Cua Toi</string>
     <string name="hello_message">Xin Chao The Gioi!</string>
     <string name="ButtonText">Toi la nut bam</string>
+    <string name="ButtonText2">DANG NHAP</string>
     <string name="login">Dang Nhap</string>
     <string name="login_name">ten dang nhap</string>
     <string name="password">Mat Khau</string>
-    <string name="flag">Co</string>
+    <string name="picture">Khong the mo</string>
     <string name="whatDo">Viec nay la lam gi?</string>
     <string name="photo">Anh chup</string>
     <string name="radio">Nut Chon</string>
     <string name="check">Hop Kiem Tra</string>
-
+    <string name="my_pref">MY PREFERENCES</string>
+    <string name="dialog_message">Ban muon dung chuong trinh lai?</string>
+    <string name="dialog_title">CHU Y</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Huy bo</string>
+    <string name="ChatButtonText">Bat Dau Tro Chuyen</string>
+    <string name="sendButtonText">Gui</string>
+    <string name="weatherButton">Du Bao Thoi Tiet</string>
+    <string name="speed">Suc Gio: %1$s</string>
+    <string name="max">Nhiet do cao nhat: %1$s</string>
+    <string name="min">Nhiet do thap nhat: %1$s</string>
+    <string name="current">Nhiet do: %1$s</string>
 </resources>

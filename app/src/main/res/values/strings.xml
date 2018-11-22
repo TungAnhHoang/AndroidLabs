@@ -2,13 +2,26 @@
     <string name="app_name">My Application</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="ButtonText2">LOGIN</string>
     <string name="login">Login</string>
     <string name="login_name">login name</string>
     <string name="password">Password</string>
-    <string name="flag">Flag</string>
+    <string name="picture">Unload picture</string>
     <string name="whatDo">What does this do?</string>
     <string name="photo">Photo</string>
     <string name="radio">RadioButton</string>
     <string name="check">CheckBox</string>
+    <string name="my_pref">My Preferences</string>
+    <string name="dialog_message">Do you want to finish the activity?</string>
+    <string name="dialog_title">WARNING</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="ChatButtonText">Start Chat</string>
+    <string name="sendButtonText">Send</string>
+    <string name="weatherButton">Weather Forecast</string>
+    <string name="speed">Wind Speed: %1$s</string>
+    <string name="max">Max Temperature: %1$s</string>
+    <string name="min">Min Temperature: %1$s</string>
+    <string name="current">Current Temperature: %1$s</string>
 
 </resources>

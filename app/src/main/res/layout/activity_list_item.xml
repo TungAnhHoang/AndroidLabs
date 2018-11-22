@@ -20,13 +20,14 @@
         android:text="@string/check" />
 
     <Switch
+
         android:id="@+id/switch1"
         android:layout_columnWeight="1"
         android:gravity="fill"
         android:text="@string/whatDo" />
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/buttonImage"
         android:layout_columnWeight="1"
         android:contentDescription="@string/photo"
         android:gravity="fill"
